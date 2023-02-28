@@ -55,3 +55,7 @@ body{
     bottom: 12vh;
     line-height: 0.9;
 }
+
+.gallery{
+    display: flex;
+}
